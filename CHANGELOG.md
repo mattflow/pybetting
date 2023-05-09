@@ -12,4 +12,3 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 [Unreleased]: https://github.com/mattflow/pybetting/compare/0.0.2...master
 [0.0.2]: https://github.com/mattflow/pybetting/tree/0.0.2
-
