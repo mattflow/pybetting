@@ -6,9 +6,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
-## [0.0.2] - 2023-04-20
 ### Added
+
+- Another example function
+
+## [0.0.2] - 2023-04-20
+
+### Added
+
 - An example function
 
-[Unreleased]: https://github.com/mattflow/pybetting/compare/0.0.2...master
+[Unreleased]: https://github.com/mattflow/pybetting/compare/0.0.2...main
 [0.0.2]: https://github.com/mattflow/pybetting/tree/0.0.2
