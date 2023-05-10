@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pybetting"
-version = "0.0.2"
+version = "0.0.3"
 description = "Betting tools"
 authors = [
     "Matt Flowers <mattmflowers28@gmail.com>",
